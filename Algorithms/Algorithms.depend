@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1718931077 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\list.cpp
+	"List.h"
+
+1718931077 c:\omar\programacion\c++\sorting-algorithms\algorithms\list.h
+
+1584205420 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\main.cpp
+	<iostream>
+
+1718931065 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\node.cpp
+	"Node.h"
+
+1718931720 c:\omar\programacion\c++\sorting-algorithms\algorithms\node.h
+	"Product.h"
+
+1718931599 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\product.cpp
+	"Product.h"
+
+1718931599 c:\omar\programacion\c++\sorting-algorithms\algorithms\product.h
+	<iostream>
+

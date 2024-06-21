@@ -13,7 +13,7 @@ This repository contains a C++ implementation of various sorting algorithms in a
 
 ## Usage
 
-Clone the repository and compile the source code using a C++ compiler. The repository includes example usage demonstrating the basic operations.
+Clone the repository and compile the source code using a C++ compiler. The repository includes example usage demonstrating the basic sorting algorithm's.
 
 ## Getting Started
 

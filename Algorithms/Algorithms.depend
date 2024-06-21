@@ -7,8 +7,9 @@
 1584205420 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\main.cpp
 	<iostream>
 
-1718931065 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\node.cpp
+1718931809 source:c:\omar\programacion\c++\sorting-algorithms\algorithms\node.cpp
 	"Node.h"
+	"Product.h"
 
 1718931720 c:\omar\programacion\c++\sorting-algorithms\algorithms\node.h
 	"Product.h"
